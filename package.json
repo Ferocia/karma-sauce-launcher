@@ -19,10 +19,10 @@
   ],
   "author": "Vojta Jina <vojta.jina@gmail.com>",
   "dependencies": {
-    "wd": "~0.3.4",
-    "sauce-connect-launcher": "~0.6.0",
-    "q": "~0.9.6",
-    "saucelabs": "~0.1.0"
+    "wd": "~0.3.11",
+    "sauce-connect-launcher": "~0.9.3",
+    "q": "~1.1.2",
+    "saucelabs": "~0.1.1"
   },
   "peerDependencies": {
     "karma": ">=0.11.11"
